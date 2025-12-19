@@ -1,5 +1,7 @@
 DevOps Project: Multi-Cloud Infrastructure with IaC and CI/CD
-DevOps
+
+
+
 Terraform
 Ansible
 Multi-Cloud
